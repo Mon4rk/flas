@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Fisíca',
+    'O que é Força',
+    'refere-se a uma interação que pode alterar o estado de movimento de um objeto ou causar deformações nele'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quimica',
+    'O que são atomos',
+    'São as menores partículas que constituem a matéria'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Fisíca',
+    'O que a Cinemática estuda?',
+    'Estuda o movimento dos corpos sem considerar as causas que o provocam. Conceitos-chave incluem trajetória, velocidade e aceleração'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Fisíca',
+    'O que a Dinâmica estuda?',
+    ' Estuda as causas do movimento, como forças e as leis de Newton.'
 )
