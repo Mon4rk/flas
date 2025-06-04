@@ -1,12 +1,12 @@
 criaCartao(
     'Fisíca',
-    'O que é Força',
+    'O que é Força?',
     'refere-se a uma interação que pode alterar o estado de movimento de um objeto ou causar deformações nele'
 )
 
 criaCartao(
     'Quimica',
-    'O que são atomos',
+    'O que são atomos?',
     'São as menores partículas que constituem a matéria'
 )
 
